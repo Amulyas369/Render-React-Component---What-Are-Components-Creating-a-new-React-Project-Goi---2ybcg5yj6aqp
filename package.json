@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
     "css-loader": "^4.3.0",
     "jest-junit": "^11.1.0",
     "react": "^16.13.1",
@@ -50,5 +52,13 @@
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amulyas369/Render-React-Component---What-Are-Components-Creating-a-new-React-Project-Goi---2ybcg5yj6aqp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Amulyas369/Render-React-Component---What-Are-Components-Creating-a-new-React-Project-Goi---2ybcg5yj6aqp/issues"
+  },
+  "homepage": "https://github.com/Amulyas369/Render-React-Component---What-Are-Components-Creating-a-new-React-Project-Goi---2ybcg5yj6aqp#readme"
 }
